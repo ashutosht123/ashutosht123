@@ -3,7 +3,7 @@ Final-year IT Engineering student | Pursuing B.Tech from Shri Guru Gobind Singh 
 
 ## 📌 Pinned Repositories:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosht123&repo=repository1&theme=dark)](https://github.com/ashutosht123/Seva)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosht123&repo=repository2&theme=dark)](https://github.com/ashutosht123/repository2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosht123&repo=repository2&theme=dark)](https://github.com/ashutosht123/Wanderlust)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosht123&repo=repository3&theme=dark)](https://github.com/ashutosht123/repository3)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosht123&repo=repository4&theme=dark)](https://github.com/ashutosht123/repository4)
 
