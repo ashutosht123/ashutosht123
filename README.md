@@ -2,10 +2,10 @@
 Final-year IT Engineering student | Pursuing B.Tech from Shri Guru Gobind Singh Institute of Engineering and Technology, Vishnupuri, Nanded
 
 ## 📌 Pinned Repositories:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosht123&repo=repository1&theme=dark)](https://github.com/ashutosht123/Seva)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosht123&repo=repository2&theme=dark)](https://github.com/ashutosht123/Wanderlust)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosht123&repo=repository3&theme=dark)](https://github.com/ashutosht123/repository3)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutosht123&repo=repository4&theme=dark)](https://github.com/ashutosht123/repository4)
+
+[![Seva](https://github-readme-stats.vercel.app/api/pin/?username=ashutosht123&repo=Seva&theme=dark)](https://github.com/ashutosht123/Seva)
+[![Wanderlust](https://github-readme-stats.vercel.app/api/pin/?username=ashutosht123&repo=Wanderlust&theme=dark)](https://github.com/ashutosht123/Wanderlust)
+[![Zomato-Clone](https://github-readme-stats.vercel.app/api/pin/?username=ashutosht123&repo=Zomato-Clone&theme=dark)](https://github.com/ashutosht123/Zomato-Clone)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ashutosht123)
